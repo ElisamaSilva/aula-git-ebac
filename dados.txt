@@ -1,10 +1,12 @@
-Dados do aluno
+Dados do aluno:
 
 -Primeiro Nome: "Elisama"
 
 -Profissão: "Analista de Sistemas"
 
 -Cidade: Belém
+
+-Estado: Pará
 
 -O que faz nas horas vaga: Muitas Coisas...
 
